@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Anupam2003S
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mail-: anupamsahu332@gmail.com
+- 📫 How to reach me: mail-: anupamsahu8822@gmail.com
 - 
 
 <!---
